@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180">
-      <img src="assets/images/profile.jpg" width="160" style="border-radius: 50%;">
+      <img src="assets/images/profile.png" width="160" style="border-radius: 50%;">
     </td>
     <td>
       <h1>M. M. Akash</h1>
