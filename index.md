@@ -1,14 +1,20 @@
----
-title: "M. M. Akash"
----
+<table>
+  <tr>
+    <td width="180">
+      <img src="assets/images/profile.jpg" width="160" style="border-radius: 50%;">
+    </td>
+    <td>
+      <h1>M. M. Akash</h1>
+      <b>Machine Learning Engineer | High-Performance Computing | NLP</b><br><br>
+      📍 Jyväskylä, Finland<br>
+      📧 m.m.akash@jyu.fi<br>
+      🔗 <a href="https://www.linkedin.com/in/m-m-akash-9385a6249/">LinkedIn</a><br>
+      💻 <a href="https://github.com/M-M-Akash">GitHub</a>
+    </td>
+  </tr>
+</table>
 
-# M. M. Akash
-**Machine Learning Engineer | High-Performance Computing | NLP**
 
-📍 Jyväskylä, Finland  
-📧 m.m.akash@jyu.fi  
-🔗 [LinkedIn](https://www.linkedin.com/in/m-m-akash-9385a6249/)  
-💻 [GitHub](https://github.com/M-M-Akash)
 
 ---
 
