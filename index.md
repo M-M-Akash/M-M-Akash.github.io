@@ -5,7 +5,7 @@
     </td>
     <td>
       <h1>M. M. Akash</h1>
-      <b>Machine Learning Engineer | High-Performance Computing | NLP</b><br><br>
+      <b>Machine Learning Engineer | HPC Postgrad |</b><br><br>
       📍 Jyväskylä, Finland<br>
       📧 m.m.akash@jyu.fi<br>
       🔗 <a href="https://www.linkedin.com/in/m-m-akash-9385a6249/">LinkedIn</a><br>
